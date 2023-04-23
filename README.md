@@ -7,7 +7,7 @@ This repository contains course materials for the Caltech-DevOps Simplilearn Pos
 ## Course Contents
 
 1. **Course Introduction**
-   - Overview of the program
+   -- Overview of the program
    - Objectives and outcomes
 
 2. **Basic Linux**
