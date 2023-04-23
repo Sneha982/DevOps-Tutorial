@@ -6,7 +6,7 @@ This repository contains course materials for the Caltech-DevOps Simplilearn Pos
 
 ## Course Contents
 
-1. **Simplilearn Course Introduction**
+1. **Simplilearn Course Intro**
    -- Overview of the program
    - Objectives and outcomes
 
